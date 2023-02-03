@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manju-yadav-16812723b?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bfjaz8wwirwuawins9yphmq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manju-yadav-16812723b?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bfjaz8wwirwuawins9yphmq%3d%3d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manju-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manju-yadav" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,4 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manju145&show_icons=true&locale=en" alt="manju145" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manju145&" alt="manju145" /></p>
-
