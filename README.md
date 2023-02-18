@@ -5,8 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manju145&label=Profile%20views&color=0e75b6&style=flat" alt="manju145" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manju145" alt="manju145" /></a> </p>
+
 portfolio: https://manju145.github.io/
+
 👀 I’m interested in HTML, css , javascript, React
+
 - 📫 How to reach me: manjuyadav0514001@gmail.com
 <p align="left">
 </p>
