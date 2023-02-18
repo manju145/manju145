@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Manju Yadav</h1>
-👋 Hi, I’m @Manju145
 
 <h3 align="center">I am a full-stack web developer from Masai school, a passionate learner who's always willing to learn and work across technology and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm deep into Web Development.</h3>
 
